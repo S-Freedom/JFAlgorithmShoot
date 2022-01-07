@@ -21,6 +21,17 @@ var _88_mergeTwoArray : JF_88_mergeTwoArray = JF_88_mergeTwoArray()
 //_75_color_classify.sortColors(&nums_75)
 //print(nums_75)
 
-var _16_16_sub_sort = JF_16_16_sub_sort()
-let _16_16_result : [Int] = _16_16_sub_sort.subSort([19,2,4,7,10,11,7,12,6,7,16,18,19])
-print("\(_16_16_result)")
+//var _16_16_sub_sort = JF_16_16_sub_sort()
+//let _16_16_result : [Int] = _16_16_sub_sort.subSort([19,2,4,7,10,11,7,12,6,7,16,18,19])
+//print("\(_16_16_result)")
+
+
+//var maxPrice = JF_MaxPrice()
+//maxPrice.main()
+
+//objc_getClass(Person.self)
+
+let twoNumsSum = JF_TwoNumsSum()
+
+twoNumsSum.main()
+
